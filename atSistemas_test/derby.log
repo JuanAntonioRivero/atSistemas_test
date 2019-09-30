@@ -1,0 +1,14 @@
+Sat Sep 28 19:46:47 CEST 2019 : Servidor de red Apache Derby: Se ha iniciado 10.10.2.0 - (1582446) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Sat Sep 28 19:46:48 CEST 2019:
+ Iniciando instancia a816c00e-016d-78fb-7097-000064fca34b de Derby, versión The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): 
+en el directorio de base de datos E:\Users\EvilGenius\Documents\NetBeansProjects\atSistemas_test\Products con el cargador de clases sun.misc.Launcher$AppClassLoader@1d44bcfa
+Cargado desde file:/C:/Program%20Files/glassfish-4.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Program Files\glassfish-4.1\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\Users\EvilGenius\Documents\NetBeansProjects\atSistemas_test
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
